@@ -12,4 +12,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/mrmoon007/leetcode-problems/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/mrmoon007/leetcode-problems/tree/master/1801-average-time-of-process-per-machine) |
 | [2087-confirmation-rate](https://github.com/mrmoon007/leetcode-problems/tree/master/2087-confirmation-rate) |
+## Array
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mrmoon007/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mrmoon007/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mrmoon007/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mrmoon007/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
