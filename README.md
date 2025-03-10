@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mrmoon007/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/mrmoon007/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 ## Binary Search
 |  |
 | ------- |
@@ -28,4 +29,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mrmoon007/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/mrmoon007/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/mrmoon007/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
