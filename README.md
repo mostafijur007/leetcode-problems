@@ -43,10 +43,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/mrmoon007/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [1894-merge-strings-alternately](https://github.com/mrmoon007/leetcode-problems/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/mrmoon007/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [1894-merge-strings-alternately](https://github.com/mrmoon007/leetcode-problems/tree/master/1894-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
