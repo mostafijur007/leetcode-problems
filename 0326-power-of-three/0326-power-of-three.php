@@ -6,11 +6,6 @@ class Solution {
      */
     function isPowerOfThree($n) {
 
-        if($n <= 0)
-        {
-            return false;
-        }
-
         while($n >= 3)
         {
             $n = $n/3;
