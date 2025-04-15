@@ -9,9 +9,7 @@ class Solution {
         while($n >= 2){
             $n= $n/2;
         }
-
-        echo $n;
-
+        
         if($n == 1)
         {
             return true;
