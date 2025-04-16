@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/mrmoon007/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/mrmoon007/leetcode-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mrmoon007/leetcode-problems/tree/master/0326-power-of-three) |
+| [1642-water-bottles](https://github.com/mrmoon007/leetcode-problems/tree/master/1642-water-bottles) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -69,4 +70,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0231-power-of-two](https://github.com/mrmoon007/leetcode-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mrmoon007/leetcode-problems/tree/master/0326-power-of-three) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/mrmoon007/leetcode-problems/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
