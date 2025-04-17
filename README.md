@@ -21,12 +21,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mrmoon007/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/mrmoon007/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/mrmoon007/leetcode-problems/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/mrmoon007/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mrmoon007/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/mrmoon007/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/mrmoon007/leetcode-problems/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -59,12 +61,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0009-palindrome-number](https://github.com/mrmoon007/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/mrmoon007/leetcode-problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/mrmoon007/leetcode-problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/mrmoon007/leetcode-problems/tree/master/0326-power-of-three) |
 | [1642-water-bottles](https://github.com/mrmoon007/leetcode-problems/tree/master/1642-water-bottles) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/mrmoon007/leetcode-problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/mrmoon007/leetcode-problems/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -74,4 +78,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/mrmoon007/leetcode-problems/tree/master/1642-water-bottles) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/mrmoon007/leetcode-problems/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/mrmoon007/leetcode-problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
