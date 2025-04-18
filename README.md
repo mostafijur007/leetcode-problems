@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/mrmoon007/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/mrmoon007/leetcode-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mrmoon007/leetcode-problems/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/mrmoon007/leetcode-problems/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/mrmoon007/leetcode-problems/tree/master/0326-power-of-three) |
 | [1642-water-bottles](https://github.com/mrmoon007/leetcode-problems/tree/master/1642-water-bottles) |
 ## Bit Manipulation
@@ -86,4 +87,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/mrmoon007/leetcode-problems/tree/master/0268-missing-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/mrmoon007/leetcode-problems/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
