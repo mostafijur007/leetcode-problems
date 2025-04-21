@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mrmoon007/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/mrmoon007/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [1894-merge-strings-alternately](https://github.com/mrmoon007/leetcode-problems/tree/master/1894-merge-strings-alternately) |
 ## Divide and Conquer
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mrmoon007/leetcode-problems/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/mrmoon007/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/mrmoon007/leetcode-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mrmoon007/leetcode-problems/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/mrmoon007/leetcode-problems/tree/master/0319-bulb-switcher) |
@@ -82,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mrmoon007/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/mrmoon007/leetcode-problems/tree/master/0268-missing-number) |
 ## Sorting
 |  |
