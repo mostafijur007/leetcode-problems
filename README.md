@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/mrmoon007/leetcode-problems/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0595-big-countries](https://github.com/mrmoon007/leetcode-problems/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/mrmoon007/leetcode-problems/tree/master/0620-not-boring-movies) |
 | [1135-customers-who-bought-all-products](https://github.com/mrmoon007/leetcode-problems/tree/master/1135-customers-who-bought-all-products) |
 | [1155-product-sales-analysis-iii](https://github.com/mrmoon007/leetcode-problems/tree/master/1155-product-sales-analysis-iii) |
